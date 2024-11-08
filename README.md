@@ -147,7 +147,7 @@ We developed this project together:
 | Contributor | Profile |
 |-------------|---------|
 |**Hafiza** |https://github.com/ShaikHafiza |
-| **Varma** |https://github.com/varma-101 |
+| **Varma Sagi** |https://github.com/varma-101 |
 
 
 Feel free to check out our profiles and follow our work!
